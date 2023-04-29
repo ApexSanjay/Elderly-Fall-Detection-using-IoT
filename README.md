@@ -3,6 +3,8 @@ This is my Final Year Project in my Bachelors Degree.
 
 The objective is to send a emergency message using the M5Stick to the AWS IoT Service.
 
+Demonstration Video: https://youtu.be/QDO8_8yOZsM
+
 # Items used
 Device Used: M5StickC
 Additional tools: 3m USB Type-C Cable, 
@@ -17,8 +19,6 @@ Excellent understnading in Mathmatics
 Basic  understanding of Data Strucutres & Algorithms
 
 Basic understanding of C++
-
-Demonstration Video: https://youtu.be/QDO8_8yOZsM
 
 # Warnings
 The M5StickC can only connect to 2.4GHz Wi-Fi networks.
